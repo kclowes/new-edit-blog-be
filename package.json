@@ -1,0 +1,10 @@
+{
+  "name": "new-edit-blog-repo-json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex Robinson & Keri Clowes",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.12.0"
+  }
+}
